@@ -4,3 +4,4 @@ provaw
 modifica file
 
 aggiunta modifica su git
+aggiunta  mod2 locale
