@@ -6,4 +6,8 @@ modifica file
 aggiunta modifica su git
 aggiunta  mod2 locale
 
+<<<<<<< HEAD
 prova modifica
+=======
+modifica 14-12-19
+>>>>>>> dac3357507bc179df1158150a78cd24ed4aaaa60
