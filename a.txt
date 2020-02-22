@@ -2,6 +2,6 @@ prova
 
 modifica riga
 
-aggiunta da locale xx 1
+aggiunta da locale(modificata da feature 1) xx 1
 
 aggiunta feature 1
