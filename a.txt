@@ -1,6 +1,6 @@
 prova
 
-modifica riga
+modifica lettera e poi
 
 aggiunta da locale(modificata da feature 1) xx 1
 
