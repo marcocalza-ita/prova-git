@@ -1,7 +1,7 @@
 prova
 
-modifica oooo lettera ---- e poe 
-modifica pppp su git hub  poi
+modifica xxx lettera ---- e poe 
+modifica xxx su git hub  poi
 aggiunta da locale(modificata da feature 1) xx 1
 
 aggiunta feature 1
