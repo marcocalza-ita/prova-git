@@ -1,6 +1,6 @@
 prova
 
-modifica lettera ffff ---- e poe
+modifica lettera ---- e poe
 modifica su git hub poi
 aggiunta da locale(modificata da feature 1) xx 1
 
