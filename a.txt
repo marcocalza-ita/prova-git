@@ -8,3 +8,4 @@ aggiunta feature 1
 aggiunta feature_2
 aggiunta aaa
 aggiunta 5
+aggiunta_feture_6_dec
