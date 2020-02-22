@@ -2,5 +2,5 @@ prova
 
 modifica riga
 
-aggiunta da locale 1
+aggiunta da locale xx 1
 
