@@ -6,3 +6,4 @@ aggiunta da locale(modificata da feature 1) xx 1
 
 aggiunta feature 1
 aggiunta feature_2
+aggiunta fet3
