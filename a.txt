@@ -4,3 +4,4 @@ modifica riga
 
 aggiunta da locale xx 1
 
+aggiunta feature 1
